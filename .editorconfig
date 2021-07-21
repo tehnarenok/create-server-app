@@ -1,17 +1,17 @@
 root = true
 
 [*]
-ident_style = tab
-isent_size = 4
+indent_style = tab
+indent_size = 4
 
 [*.json]
-ident_style = space
-isent_size = 2
+indent_style = space
+indent_size = 2
 
 [*.yml]
-ident_style = space
-ident_style = 2
+indent_style = space
+indent_style = 2
 
 [*.yaml]
-ident_style = space
-ident_style = 2
+indent_style = space
+indent_style = 2
