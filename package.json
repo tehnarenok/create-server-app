@@ -1,5 +1,5 @@
 {
-  "name": "create-server-app",
+  "name": "@tehdev/create-server-app",
   "version": "1.0.0",
   "repository": {
     "type": "git",
