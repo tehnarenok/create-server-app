@@ -2,7 +2,8 @@
   "name": "create-server-app",
   "version": "1.0.0",
   "repository": {
-    
+    "type": "git",
+    "url": "https://tehnarenok@bitbucket.org/tehnarenok/create-server-app.git"
   },
   "description": "Template for backend with express, morgan, nodemon, docker",
   "main": "index.js",
