@@ -71,5 +71,9 @@
 		"rootDir": "./",
 		"baseUrl": "./src",
 		"outDir": "./dist",
-	}
+	},
+	"exclude": [
+		"node_modules",
+		"files"
+	]
 }

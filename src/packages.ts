@@ -1,6 +1,18 @@
-import { Package, PackageType } from "../types/packages"
+import { Package, PackageType } from "./types/packages";
 
 let packages: Package[] = [
+	{
+		type: PackageType.Dep,
+		name: 'express'
+	},
+	{
+		type: PackageType.Dep,
+		name: 'morgan'
+	},
+	{
+		'type': PackageType.DevDep,
+		name: 'nodemon'	
+	},
 	{
 		'type': PackageType.DevDep,
 		name: '@types/node'	
