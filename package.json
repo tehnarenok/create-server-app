@@ -6,6 +6,11 @@
     "url": "https://tehnarenok@bitbucket.org/tehnarenok/create-server-app.git"
   },
   "description": "Template for backend with express, morgan, nodemon, docker",
+  "keywords": [
+    "express",
+    "server",
+    "create-server-app"
+  ],
   "main": "index.js",
   "bin": {
     "create-server-app": "./dist/src/index.js"
