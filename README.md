@@ -3,7 +3,7 @@
 ## Quick Overview
 
 ```bash
-npx create-server-app
+npx @tehdev/create-server-app
 ? Project name: my-app
 cd my-app
 npm run start:dev
