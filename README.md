@@ -1,5 +1,14 @@
 # Create server app (CSA)
 
+## Quick Overview
+
+```bash
+npx create-server-app
+? Project name: my-app
+cd my-app
+npm run start:dev
+```
+
 ## What is it
 This project was created in order to quickly start developing a backend for an application.  
 The idea was taken from the CRA
